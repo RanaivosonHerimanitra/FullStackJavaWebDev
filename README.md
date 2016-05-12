@@ -11,6 +11,7 @@ Getting started with some Java frameworks for web and mobile development
 
 #### Package dependencies in `pom.xml`:
 
+```
 <dependencies>
     <dependency>
       <groupId>org.springframework</groupId>
@@ -18,3 +19,4 @@ Getting started with some Java frameworks for web and mobile development
       <version>4.0.1.RELEASE</version>
     </dependency>
 </dependencies>
+```

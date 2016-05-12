@@ -8,3 +8,13 @@ Getting started with some Java frameworks for web and mobile development
 * Additionnal troubleshooting may be solved [here](http://stackoverflow.com/questions/34169861/two-tomcat-in-same-server-upstart-script-ubuntu-server)
 
 * IDE used for this project can be found [here](https://www.jetbrains.com/idea/download)
+
+#### Package dependencies in `pom.xml`:
+
+<dependencies>
+    <dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-webmvc</artifactId>
+      <version>4.0.1.RELEASE</version>
+    </dependency>
+</dependencies>
